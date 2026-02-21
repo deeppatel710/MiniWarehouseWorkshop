@@ -1,0 +1,9 @@
+product_id,product_name,category_id,unit_price
+P001,High-Resolution Spectrometer,C01,150000
+P002,Radio Telescope Receiver,C01,850000
+P003,CCD Imaging Sensor,C02,45000
+P004,Cryogenic Cooling System,C05,120000
+P005,Supercomputer Compute Node,C04,250000
+P006,Adaptive Optics Module,C02,300000
+P008,Dark Matter Detector Array,C03,1250000
+P010,Gravitational Wave Sensor,C03,1750000
