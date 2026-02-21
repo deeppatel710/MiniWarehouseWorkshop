@@ -1,4 +1,4 @@
-customer_id,customer_name,city,country,field_id,created_at
+user_id,user_name,city,country,field_id,created_at
 C001,Neil deGrasse Tyson,New York,USA,F01,2023-03-14T09:22:00
 C001,Neil deGrasse Tyson,New York,USA,F01,2023-03-14T09:22:00
 C002,Kip Thorne,Pasadena,USA,F01,2022-07-08T14:31:00
