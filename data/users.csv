@@ -1,14 +1,14 @@
 user_id,user_name,city,country,field_id,created_at
-C001,Neil deGrasse Tyson,New York,USA,F01,2023-03-14T09:22:00
-C001,Neil deGrasse Tyson,New York,USA,F01,2023-03-14T09:22:00
-C002,Kip Thorne,Pasadena,USA,F01,2022-07-08T14:31:00
-C003,Brian Cox,Manchester,UK,F02,2023-11-19T08:45:00
-C004,Sara Seager,Cambridge,USA,F03,2022-01-25T16:10:00
-C005,Subrahmanyan Chandrasekhar,Chicago,USA,F01,2024-02-11T11:00:00
-C006,Vera Rubin,Washington,USA,F01,2023-06-30T10:15:00
-C006,Vera Rubin,Washington,USA,F01,2023-06-30T10:15:00
-C006,Vera Rubin,Washington,USA,F01,2023-06-30T10:15:00
-C007,Stephen Hawking,Cambridge,UK,F01,2022-09-03T13:42:00
-C008,Carl Sagan,Ithaca,USA,F03,2023-12-20T09:55:00
-C009,Jocelyn Bell Burnell,Oxford,UK,F01,2024-04-05T07:28:00
-C010,Andrea Ghez,Los Angeles,USA,F01,2022-11-12T15:33:00
+U001,Neil deGrasse Tyson,New York,USA,F01,2023-03-14T09:22:00
+U001,Neil deGrasse Tyson,New York,USA,F01,2023-03-14T09:22:00
+U002,Kip Thorne,Pasadena,USA,F01,2022-07-08T14:31:00
+U003,Brian Cox,Manchester,UK,F02,2023-11-19T08:45:00
+U004,Sara Seager,Cambridge,USA,F03,2022-01-25T16:10:00
+U005,Subrahmanyan Chandrasekhar,Chicago,USA,F01,2024-02-11T11:00:00
+U006,Vera Rubin,Washington,USA,F01,2023-06-30T10:15:00
+U006,Vera Rubin,Washington,USA,F01,2023-06-30T10:15:00
+U006,Vera Rubin,Washington,USA,F01,2023-06-30T10:15:00
+U007,Stephen Hawking,Cambridge,UK,F01,2022-09-03T13:42:00
+U008,Carl Sagan,Ithaca,USA,F03,2023-12-20T09:55:00
+U009,Jocelyn Bell Burnell,Oxford,UK,F01,2024-04-05T07:28:00
+U010,Andrea Ghez,Los Angeles,USA,F01,2022-11-12T15:33:00
